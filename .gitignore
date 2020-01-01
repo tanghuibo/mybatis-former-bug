@@ -31,3 +31,6 @@ Mercury.modules
 *.c_date
 
 /.idea/
+/mybatis-former-bug-after/mybatis-former-bug-after.iml
+/mybatis-former-bug-before/mybatis-former-bug-before.iml
+/mybatis-former-bug-core/mybatis-former-bug-core.iml
