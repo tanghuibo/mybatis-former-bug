@@ -31,11 +31,6 @@ public class MybatisUtils {
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
-            try {
-                connection.close();
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
             sqlSession.close();
         }
     }
