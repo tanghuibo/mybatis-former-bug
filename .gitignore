@@ -12,9 +12,6 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
-.idea
-mybatis-former-bug.iml
-
 ### Mercury template
 Mercury/
 Mercury.modules
