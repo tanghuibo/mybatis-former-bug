@@ -29,8 +29,11 @@ Mercury.modules
 *.beams
 *.d
 *.c_date
+*.iml
 
 /.idea/
-/mybatis-former-bug-after/mybatis-former-bug-after.iml
-/mybatis-former-bug-before/mybatis-former-bug-before.iml
-/mybatis-former-bug-core/mybatis-former-bug-core.iml
+
+test.db.log
+test.db.properties
+test.db.script
+test.db.tmp/
