@@ -13,9 +13,6 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import javax.sql.DataSource;
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
-
 /**
  * @author tanghuibo
  * @date 2020/1/3上午12:25

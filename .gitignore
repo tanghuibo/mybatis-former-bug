@@ -34,3 +34,8 @@ test.db.log
 test.db.properties
 test.db.script
 test.db.tmp/
+.project
+.settings/
+*.prefs
+.classpath
+
