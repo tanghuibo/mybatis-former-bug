@@ -204,6 +204,12 @@ if test 在 foreach 之前运行，运行 if test 时没有 testId，最终的�
 
 ![bug-fix](docs/pictures/bug-fix.png)
 
+修复版本: 3.4.5
+
+修复时间: 2017 年 5 月 25 日
+
+发布时间: 2017 年 8 月 20 日
+
 在 apply for 循环结束后将 item 个 index 暴力移除了
 
 在 BUG 修复后同时设置 testId 和 testIds，testId 会不会在 bindings 中变成 null?
